@@ -1,0 +1,6 @@
+[submodule "hw"]
+	path = hw
+	url = git@github.com:briancpark/cs162-hw.git
+[submodule "proj"]
+	path = proj
+	url = git@github.com:briancpark/pintos.git

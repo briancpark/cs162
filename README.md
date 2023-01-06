@@ -1,8 +1,11 @@
 # CS 162
 
+This course is operating systems annd systems programming. I took this offering in Fall 2021 under Ion Stoica. This repo contains my development setup and notes.
 
+There is no source code here and the submodules are made private. Please DO NOT contact me for source code.
 
 ## Installation
+
 This course makes the use of virtual machines, which can get messy real quick. But I have found a way for my own setups.
 
 ### M1 Mac Installation
@@ -22,7 +25,7 @@ vagrant ssh
 ```
 
 ### Linux Installation
-Once inside a virtual machine, you will need to run the following commdands to get things running:
+Once inside a virtual machine, you will need to run the following commands to get things running:
 
 ```sh
 sudo apt install build-essential gcc-9 g++-9 fzf -y
@@ -33,4 +36,4 @@ git clone --recurse git@github.com:briancpark/cs162.git
 export PATH=$HOME/cs162/proj/src/utils:$PATH
 ```
 
-We need to compile with gcc-9, as any higher version results in some compiler errors. Note that we can do this natively on Linux machine as well.
+We need to compile with gcc-9, as any higher version results in some compilation errors. Note that this will work on any Ubuntu machine as well.

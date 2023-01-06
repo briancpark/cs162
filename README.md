@@ -1,6 +1,6 @@
 # CS 162
 
-CS 162 is Operating Systems and Systems Programming. I took this offering in Fall 2021 under Ion Stoica. This repo contains my development setup and notes.
+CS 162 is Operating Systems and Systems Programming at UC Berkeley. I took this offering in Fall 2021 under Ion Stoica. This repo contains my development setup and notes.
 
 There is no source code here and the submodules are made private. Please DO NOT contact me for source code.
 
